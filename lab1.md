@@ -1,0 +1,38 @@
+# LEYES DE KIRCHHOFF
+
+**1.-OBJETIVOS**
+
+General:
+
+Especificos:
+
+
+**2.-MARCO TEÓRICO**
+
+
+
+**3.-EXPLICACIÓN DEL PROCEDIMIENTO**
+
+
+
+**4.-RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
+
+|VARIABLE|VALOR CALCULADO|VALOR MEDIDO|
+|---|---|---|
+|VR1| | |
+|IR1| | |
+|VR2| | |
+|IR2| | |
+|VR3| | |
+|IR3| | |
+|VR4| | |
+|IR4| | |
+|VR5| | |
+|IR5| | |
+
+
+**5.-VIDEO**
+
+**6.-CONCLUSIONES**
+
+**7.-BIBLIOGRAFÍA**
