@@ -39,22 +39,40 @@ Comprender que los voltajes localizados de kirchoff deben ser en una sola trayec
 
 ![1](https://user-images.githubusercontent.com/75336529/120404357-cd382f00-c30b-11eb-848f-b3031e5714e2.PNG)
 
+![componentes](https://user-images.githubusercontent.com/75336529/120531253-0cb25a00-c3a4-11eb-8e50-f74302905308.jpeg)
+
+![circuito1](https://user-images.githubusercontent.com/75336529/120531282-1471fe80-c3a4-11eb-951f-d43144fbd438.jpeg)
+
 3.2.2.-Mida el voltaje y corriente en cada uno de los elementos del circuito. Anote los resultados de las mediciones en la tabla 1.
+
+![circuito2](https://user-images.githubusercontent.com/75336529/120531287-15a32b80-c3a4-11eb-9adf-6c43458dba2c.jpeg)
+
+![circuito3](https://user-images.githubusercontent.com/75336529/120531296-176cef00-c3a4-11eb-9481-d677d3659998.jpeg)
+
+![circuito4](https://user-images.githubusercontent.com/75336529/120531302-189e1c00-c3a4-11eb-9193-28413bb80fc6.jpeg)
+
+![circuito5](https://user-images.githubusercontent.com/75336529/120531307-1a67df80-c3a4-11eb-8caa-833791c1fbe3.jpeg)
+
+![circuito6](https://user-images.githubusercontent.com/75336529/120531313-1b990c80-c3a4-11eb-8d49-1d447a33fc13.jpeg)
+
+![circuito7](https://user-images.githubusercontent.com/75336529/120531319-1cca3980-c3a4-11eb-8288-029e03e98aef.jpeg)
+
+![circuito8](https://user-images.githubusercontent.com/75336529/120531265-11770e00-c3a4-11eb-96dd-adb7bed2f326.jpeg)
 
 Tabla 1:Resultado obtenido de voltaje y corriente, en cada elemento del circuito.
 
 |VARIABLE|VALOR CALCULADO|VALOR MEDIDO|
 |---|---|---|
-|VR1(v)| | 2.05|
-|IR1(mA)| |2.05|
-|VR2(v)| |4.25|
-|IR2(mA)| |1.09|
-|VR3(v)| |2.12|
-|IR3(uA)| |965|
-|VR4(v)| |2.12|
-|IR4(uA)| |965|
-|VR5(v)| |3.70|
-|IR5(mA)| |2.05|
+|VR1(v)|2.054 | 2.05|
+|IR1(mA)|2.054 |2.05|
+|VR2(v)|4.245 |4.25|
+|IR2(mA)|1.088 |1.09|
+|VR3(v)| 2.124|2.12|
+|IR3(uA)|965.3 |965|
+|VR4(v)|2.124 |2.12|
+|IR4(uA)|965.3 |965|
+|VR5(v)|3.69 |3.70|
+|IR5(mA)|2.054|2.05|
 
 3.2.3.-Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada,considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 2.
 
@@ -69,11 +87,21 @@ Tabla 3:Verificación de la LCK.
 **4.-RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
 4.1.-Cálculos realizados
+
   Calculo de mallas ley de kirchhoff.
+  
+  ![3](https://user-images.githubusercontent.com/75336529/120528886-8ac13180-c3a1-11eb-981c-8bd9578cf7af.PNG)
+  
+  Calculo de voltaje en cada resistencia.
+  
+  
+  
   
 
 
 **5.-VIDEO**
+
+https://www.youtube.com/watch?v=dQCtPmpl12Y&feature=youtu.be
 
 **6.-CONCLUSIONES**
 
