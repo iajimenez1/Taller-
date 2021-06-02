@@ -25,7 +25,7 @@ Comprender que los voltajes localizados de kirchoff deben ser en una sola trayec
 
 |Cantidad|Material o equipo|
 |---|---|
-|1|Fuente de voltaje de C:D|
+|1|Fuente de voltaje de C.D|
 |2|Multímetros digitales|
 |1|Resistor de 1 KΩ|
 |2|Resistor de 2.2 KΩ|
@@ -56,8 +56,21 @@ Tabla 1:Resultado obtenido de voltaje y corriente, en cada elemento del circuito
 |VR5(v)| |3.70|
 |IR5(mA)| |2.05|
 
+3.2.3.-Verifique si se cumple la Ley de Kirchhoff de Voltajes en cada trayectoria cerrada,considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo. Anote los resultados en la tabla 2.
+
+Tabla 2:Verificación de la LVK.
+
+3.2.4.-Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 3.
+
+Tabla 3:Verificación de la LCK.
+
+3.2.5.-Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
+
 **4.-RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
 
+4.1.-Cálculos realizados
+  Calculo de mallas ley de kirchhoff.
+  
 
 
 **5.-VIDEO**
