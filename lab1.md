@@ -1,4 +1,6 @@
 # LEYES DE KIRCHHOFF
+![2](https://user-images.githubusercontent.com/75336529/120421079-42ffc300-c32b-11eb-9c18-dc67a5372d97.PNG)
+
 
 **1.-OBJETIVOS**
 
