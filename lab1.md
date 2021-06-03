@@ -6,18 +6,18 @@
 
 General:
 
-Aprendere que la ley voltaje de kirchhoff es una ley fundamental del circuito que establece una suma algebraica de todos los voltajes localizados.
+-Aprendere que la ley voltaje de kirchhoff es una ley fundamental del circuito que establece una suma algebraica de todos los voltajes localizados.
 
 Especificos:
 
-Comprender que los voltajes localizados de kirchoff deben ser en una sola trayectoria cerrada es 0 o en otras palabaras las sumas de las caidas de voltaje nos dara el valor del voltaje de la fuente total.
+-Comprender que los voltajes localizados de kirchoff deben ser en una sola trayectoria cerrada es 0 o en otras palabaras las sumas de las caidas de voltaje nos dara el valor del voltaje de la fuente total.
 
-
+-Aplicar lo aprendido en clases para resolver el circuito propuesto en el documento.
 
 
 **2.-MARCO TEÓRICO**
 
-
+![LVK](https://user-images.githubusercontent.com/75336529/120564920-96c4e780-c3d1-11eb-9cb0-f38381bd9d4a.jpeg)
 
 **3.-EXPLICACIÓN DEL PROCEDIMIENTO**
 
@@ -78,6 +78,8 @@ Tabla 1:Resultado obtenido de voltaje y corriente, en cada elemento del circuito
 
 Tabla 2:Verificación de la LVK.
 
+![4](https://user-images.githubusercontent.com/75336529/120564771-42ba0300-c3d1-11eb-8653-f823fd796da8.PNG)
+
 3.2.4.-Verifique si se cumple la Ley de Kirchhoff de Corrientes en cada nodo, tomando con signo positivo las corrientes que entran al nodo y con signo negativo las que salen del nodo. Anote los resultados en la tabla 3.
 
 Tabla 3:Verificación de la LCK.
@@ -92,13 +94,14 @@ Tabla 3:Verificación de la LCK.
   
   ![3](https://user-images.githubusercontent.com/75336529/120528886-8ac13180-c3a1-11eb-981c-8bd9578cf7af.PNG)
   
-  Calculo de voltaje en cada resistencia.
+  Calculo de voltaje en cada resistencia con la ley de ohm.
+  
+  ![5](https://user-images.githubusercontent.com/75336529/120565911-b230f200-c3d3-11eb-84fb-cabd5cfa1529.PNG)
+  
+  Calculo del error.
   
   
   
-  
-
-
 **5.-VIDEO**
 
 https://www.youtube.com/watch?v=dQCtPmpl12Y&feature=youtu.be
