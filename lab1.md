@@ -19,6 +19,8 @@ Especificos:
 
 ![LVK](https://user-images.githubusercontent.com/75336529/120564920-96c4e780-c3d1-11eb-9cb0-f38381bd9d4a.jpeg)
 
+![componetesc](https://user-images.githubusercontent.com/75336529/120583977-c20cfe00-c3f4-11eb-9f51-fff886bc722a.jpeg)
+
 **3.-EXPLICACIÓN DEL PROCEDIMIENTO**
 
 3.1.-Materiales y equipo
@@ -84,6 +86,8 @@ Tabla 2:Verificación de la LVK.
 
 Tabla 3:Verificación de la LCK.
 
+![6](https://user-images.githubusercontent.com/75336529/120582505-2d090580-c3f2-11eb-890d-f72283738c28.PNG)
+
 3.2.5.-Compare los resultados medidos con los valores obtenidos al analizar el circuito analíticamente y concluya al respecto.
 
 **4.-RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR**
@@ -100,6 +104,13 @@ Tabla 3:Verificación de la LCK.
   
   Calculo del error.
   
+  Voltaje:
+  
+  ![7](https://user-images.githubusercontent.com/75336529/120583657-4a3ed380-c3f4-11eb-98f3-ce3a60119c0f.PNG)
+
+  Corriente:
+  
+  ![8](https://user-images.githubusercontent.com/75336529/120583673-5165e180-c3f4-11eb-95d9-046fccea1f14.PNG)
   
   
 **5.-VIDEO**
@@ -109,3 +120,7 @@ https://www.youtube.com/watch?v=dQCtPmpl12Y&feature=youtu.be
 **6.-CONCLUSIONES**
 
 **7.-BIBLIOGRAFÍA**
+
+Kirchhoff, L. (2021). Leyes de Kirchhoff. Retrieved 3 June 2021, Extraido de: https://www.edumediasciences.com/es/media/510leyesdekirchhoff#:~:text=La%20ley%20de%20nodos%20o,cerrado%20es%20igual%20a%20cero.
+
+Leyes de Kirchhoff. (2021). Retrieved 3 June 2021, from https://www.mecatronicalatam.com/es/tutoriales/teoria/leyes-de-kirchhoff/
