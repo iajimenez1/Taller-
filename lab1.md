@@ -110,7 +110,7 @@ Tabla 3:Verificación de la LCK.
 
   Corriente:
   
-  ![8](https://user-images.githubusercontent.com/75336529/120583673-5165e180-c3f4-11eb-95d9-046fccea1f14.PNG)
+  ![8](https://user-images.githubusercontent.com/75336529/120741817-622d5a80-c4bb-11eb-81f2-469af0af0fa8.PNG)
   
   
 **5.-VIDEO**
