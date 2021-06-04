@@ -119,6 +119,14 @@ https://www.youtube.com/watch?v=dQCtPmpl12Y&feature=youtu.be
 
 **6.-CONCLUSIONES**
 
+-	Aprendimos como usar las leyes de Kirchhoff en nuestros circuitos eléctricos.
+
+-	Profundizamos el tema de mediciones y el uso correcto de nuestro multímetro de como conectarlo de una forma adecuada para la medida que quisiéramos conocer.
+
+-	Aprendimos a identificar un circuito sea paralelo o serie y con ellos también reconocer los nodos y mallas que conforman nuestro circuito.
+
+-	Debemos tener en cuenta que requerimientos debemos tener en nuestro circuito para poder calcular magnitudes eléctricas mediante las leyes de Kirchhoff
+
 **7.-BIBLIOGRAFÍA**
 
 Kirchhoff, L. (2021). Leyes de Kirchhoff. Retrieved 3 June 2021, Extraido de: https://www.edumediasciences.com/es/media/510leyesdekirchhoff#:~:text=La%20ley%20de%20nodos%20o,cerrado%20es%20igual%20a%20cero.
